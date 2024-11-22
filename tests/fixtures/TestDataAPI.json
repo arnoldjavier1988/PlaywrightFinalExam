@@ -1,0 +1,18 @@
+{
+    "id": 23,
+    "category": {
+      "id": 1,
+      "name": "pitbull"
+    },
+    "name": "Arnold",
+    "photoUrls": [
+      "www.google.com"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "normal"
+      }
+    ],
+    "status": "sold"
+  }

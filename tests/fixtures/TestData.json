@@ -1,0 +1,17 @@
+{
+    "DatosUsuario":{
+        "FirstName": "Arnold Javier",
+        "LastName": "Capella Silva",
+        "FullName": "Arnold Javier Capella Silva",
+        "Email": "arnoldjavier@hotmail.com",
+        "Phone": "30078989895",
+        "Subject": "Cotizacion Habitacion",
+        "Message": "Estoy interesado en la cotizacion",
+        "ErrorMessage": "must not be nullmust not be null",
+        "SuccessMessage":{
+            "FirstPart": "Thanks for getting in touch ",
+            "SecondPart": "!We'll get back to you about",
+            "ThirdPart": "as soon as possible."
+        }
+    }
+}
